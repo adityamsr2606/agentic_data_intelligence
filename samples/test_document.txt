@@ -1,0 +1,12 @@
+Inspection Report
+
+Report ID: RPT-1042
+Inspection Date: 2026-09-20
+Inspector: Rahul Sharma
+Contact: rahul@example.com
+
+Measurements
+
+Sensor A | 18.5 | PASS
+Sensor B | 20.1 | PASS
+Sensor C | 999.0 | REVIEW

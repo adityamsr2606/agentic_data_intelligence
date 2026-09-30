@@ -1,0 +1,6 @@
+abc_code,measurement,event_time,contact
+X001,18.5,2026-01-10,user1@example.com
+X002,20.1,2026-01-11,user2@example.com
+X003,999.0,2026-01-12,bad-email
+X004,,2026-01-13,user4@example.com
+X004,,2026-01-13,user4@example.com

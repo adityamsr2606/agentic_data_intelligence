@@ -1,0 +1,1 @@
+"""Core package for the Agentic Data Intelligence project."""
